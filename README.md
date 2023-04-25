@@ -19,16 +19,16 @@ The project is importanrt to learn aobut Cyphers, how they work and how they can
 
 <ul>
     <li>
-        Open file directory in terminal.
-        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot1.png" width="500px">
+        Open file directory in terminal. 
+        <img style="display:block;" src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot1.png" width="500px"><br/>
     </li>
     <li>
-        Run the file: .\Cypher.py.
-        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot2.png" width="500px">
+        Run the file: .\Cypher.py. <br/>
+        <img style="display:block;" src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot2.png" width="500px"><br/>
      </li>
     <li> 
-        Enter a message to cypher it.
-        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot3.png" width="500px">
+        Enter a message to cypher it. <br/>
+        <img style="display:block;" src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot3.png" width="500px"><br/>
     </li>
 </ul>
 
