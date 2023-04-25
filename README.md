@@ -1,7 +1,7 @@
 # Table of Contents
 1. [ Title. ](#title)
 2. [ Description. ](#desc)
-2. [ Instructins. ](#inst)
+2. [ Instructions. ](#inst)
 
 <a name="title"></a>
 <h1> Title </h1>
