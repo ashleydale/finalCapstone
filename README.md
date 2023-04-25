@@ -12,8 +12,8 @@ This is a Cypher that can perform various functions, such as substituting letter
 The project is importanrt to learn aobut Cyphers, how they work and how they can be improved,
 
 
-https://github.com/github/finalCapstone/blob/assets/Screenshot%202023-04-25%20215158.png
+https://github.com/github/finalCapstone/Screenshot1
 
-https://github.com/github/finalCapstone/blob/assets/Screenshot%202023-04-25%20215210.png
+https://github.com/github/finalCapstone/Screenshot2
 
-https://github.com/github/finalCapstone/blob/assets/Screenshot%202023-04-25%20215224.png
+https://github.com/github/finalCapstone/Screenshot3
