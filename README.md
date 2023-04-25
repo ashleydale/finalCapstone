@@ -19,8 +19,8 @@ The project is importanrt to learn aobut Cyphers, how they work and how they can
 
 <ul>
     <li>
-        Open file directory in terminal. 
-        <img style="display:block;" src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot1.png" width="500px"><br/>
+        Open file directory in terminal. <br/>
+        <img style="display:block;" src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot1.png" width="500px">
     </li>
     <li>
         Run the file: .\Cypher.py. <br/>
