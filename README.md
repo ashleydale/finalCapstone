@@ -1,6 +1,7 @@
 # Table of Contents
 1. [ Title. ](#title)
 2. [ Description. ](#desc)
+2. [ Instructins. ](#inst)
 
 <a name="title"></a>
 <h1> Title </h1>
@@ -12,8 +13,23 @@ This is a Cypher that can perform various functions, such as substituting letter
 The project is importanrt to learn aobut Cyphers, how they work and how they can be improved,
 
 
-https://github.com/github/finalCapstone/Screenshot1
 
-https://github.com/github/finalCapstone/Screenshot2
+<h2> Instructions </h2>
+<a name="inst"></a>
 
-https://github.com/github/finalCapstone/Screenshot3
+<ul>
+    <li>
+        Open file directory in terminal.
+        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot1.png" width="500px">
+    </li>
+    <li>
+        Run the file: .\Cypher.py.
+        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot2.png" width="500px">
+     </li>
+    <li> 
+        Enter a message to cypher it.
+        <img src="https://github.com/ashleydale/finalCapstone/blob/master/Screenshot3.png" width="500px">
+    </li>
+</ul>
+
+Auther: Ashley Dale
